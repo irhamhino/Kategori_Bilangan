@@ -1,0 +1,23 @@
+var angka = [0,1, 2, 3, 11, 66, 99]
+var bilangan = (['bulat', 'negatif', 'cacah', 'asli','nol' , 'ganjil', 'genap', 'prima', 'komposit'])
+var prima = [2,3,5,7,11,13,17]
+var ganjil = [1,3,5,7,9,11,13]
+var genap = [2,4,6,8,10,12]
+var bulat = [-5,-4,-3,-2,-1,0,1,2,3,4,5]
+var cacah = (0,1,2,3,4,5)
+('nilai+nilai*+nol')
+('Nilai'+nilai+'=cacah')
+('Nilai'+nilai*-'=negatif')
+('Nilai'+nilai+'=genap')
+('Nilai'+nilai+'=ganjil')
+('Nilai'+nilai+'=prima')
+('Nilai'+nilai+'=komposit')
+('Nilai'+nilai% '=bulat')
+('Nilai'+nilai+'=asli')
+('Nilai'+nol+ '=nol')
+angka.slice(function(x,y){return y-x})
+if (nilai % 2 ==0 ){
+    console.log('Nilai'+nilai+'=genap & bulat')
+    }else { console.log('Nilai'+nilai+'=ganjil & prima')}
+console.log (bilangan(0))
+console.log (bilangan (13))
